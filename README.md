@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 ### 🌱 자기소개
 서비스를 개발하고 개발자로서의 역량을 길러나가고 싶습니다.
 
-### ⚡ 사용기술
+### ⚡ Skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=green" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
