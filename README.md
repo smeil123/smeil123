@@ -14,6 +14,6 @@
 </div>
 
 <h3>💻Intro</h3>
-<a href = "https://github.com/smeil123/intro"> 깃헙 지식창고 </a>
 
-<a href = "https://roongstar.tistory.com/"> 티스토리 고급창고 </a>
+- <a href = "https://github.com/smeil123/intro"> 깃헙 지식창고 </a>
+- <a href = "https://roongstar.tistory.com/"> 티스토리 고급창고 </a>
